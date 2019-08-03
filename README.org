@@ -1,0 +1,9 @@
+* Software Foundations
+
+A mirror of the Software Foundations repository, and my solutions to exercises.
+
+Original available at: https://softwarefoundations.cis.upenn.edu
+
+** Environment setup
+
+Coq, Emacs, Proof General, company-coq.
