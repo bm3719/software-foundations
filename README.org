@@ -1,6 +1,6 @@
 * Software Foundations
 
-A mirror of the Software Foundations repository, and my solutions to exercises.
+A mirror of the Coq files from the Software Foundations repository, and my solutions to exercises.
 
 Original available at: https://softwarefoundations.cis.upenn.edu
 
